@@ -14,4 +14,4 @@ The program will present a sequence of questions. Enter the relevant information
 Upon completion the console will print "Success". Your logo will be found in a svg file with the name that you chose.
 
 ##  Video
-
+https://github.com/Cristian01021/logogen/blob/main/demo%20(1).mp4
